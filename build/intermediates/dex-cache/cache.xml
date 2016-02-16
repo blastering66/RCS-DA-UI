@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\rebound-0.3.8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\rebound-0.3.8-da8d5daadadbf034fa98b4a936929ff46f0325d9.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\jp.wasabeef\blurry\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1a84f96ee267bf5fb50ea234e8915cfff17faa1">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-352c49ce8a0dd7218edf916cf29e32949ea5cd02.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\DanaAbadiUI\androidBootstrap\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6fb351b0a3284b71a99bf41cb0a1d0ead93e262a">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-f6d29f4f697a107fdc56b0b8f03719035f40c918.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-a8dbebe92fbd368a958a849ab9ab610d884f6560.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c78eaaea68d0f36f73b646f08cdb34f1a784239b">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\httpmime-4.1.2-c406f5067384a506a12d97cc30966c1499805c5f.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-9c71eb7fb5160b86a370a2c667aa287939472303.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-dc7e0f421634d2bf6ea9c5a985bf94366b147ec0.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-1f671f6626a68a36fa1a48187cde380b2723d2bc.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-1605275a42620c5ea81b2bb2674d3cde34bdf5dc.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\exploded-aar\DanaAbadiUI\libraryAppCompatCardview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="650e62738b6cc130c7aa0eb79317ed8979eb14b2">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\classes-ea9335370497b80196479eec48fcaa6e00192d6e.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86\sdk\build-tools\23.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="762016371811e15a66e97cf27f3e852bf287aaf3">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\renderscript-v8-314fa099df3494fce1b384b8a7206e3b3d5d26f2.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\ksoap2-android-assembly-2.3-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d370c3745e9d655c61ff2f120206ea4d773ecc78">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.3-jar-with-dependencies-3d07f204b883cfb3927e9224a6c97ce45694819f.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\retrofit-1.9.0-fdf3dcbadea164752dd0d2172c4e617ceeee71dc.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7c0018e9838fc8c654c6fa83a110c4600b46febd">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-0259391ce95d8003ae610417f94c0d3885ff8b97.jar" />
+    </item>
+    <item
+        jar="C:\gradle-2.3\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\gson-2.2.4-c30ab713bafb1b30cc8ac720cd8d6a7dcef62a02.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\androidannotations-api-3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c1e4371cd007644db260a6181f1084d33fb79e2b">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\androidannotations-api-3.0-e7ca60664ab000847f967873e92e27525d2fd12a.jar" />
+    </item>
+    <item
+        jar="C:\gradle-2.3\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-9e9fda864997c279af7f5d305c5ce034036cf9eb.jar" />
+    </item>
+    <item
+        jar="C:\gradle-2.3\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\joda-time-2.3-62de28da73e57854383512e40cbc2e33b831be14.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\picasso-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fb8144776ae3c72c62d66b7f0bdb2580b6f0668c">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\picasso-2.0.0-81d287c76df58531ef8280be993ae24d1b517df0.jar" />
+    </item>
+    <item
+        jar="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\libs\jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="D:\Workspace_Android_Studio_NEW\DanaAbadiUI\danaAbadiUI\build\intermediates\pre-dexed\debug\jsoup-1.7.3-ee60b1a49d30261553d53b9140aebeb221eea28b.jar" />
+    </item>
+
+</items>

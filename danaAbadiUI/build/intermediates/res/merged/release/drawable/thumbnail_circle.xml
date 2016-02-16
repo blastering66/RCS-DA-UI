@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    >
+    <solid android:color="@color/bthumbnail_placeholder" />
+</shape>
+<!-- From: file:/D:/Workspace_Android_Studio_NEW/DanaAbadiUI/androidBootstrap/src/main/res/drawable/thumbnail_circle.xml --><!-- From: file:/D:/Workspace_Android_Studio_NEW/DanaAbadiUI/danaAbadiUI/build/intermediates/exploded-aar/DanaAbadiUI/androidBootstrap/unspecified/res/drawable/thumbnail_circle.xml -->
