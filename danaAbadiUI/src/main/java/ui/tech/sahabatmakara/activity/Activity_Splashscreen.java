@@ -6,12 +6,20 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Base64;
+import android.util.Log;
 import android.view.Window;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
+
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 
 public class Activity_Splashscreen extends Activity {
 	private SharedPreferences sp;
@@ -38,6 +46,7 @@ public class Activity_Splashscreen extends Activity {
 			// TODO Auto-generated method stub
 			try{
 				Thread.sleep(3000);
+				showHashKey();
 			}catch(Exception e){
 				
 			}
@@ -62,6 +71,25 @@ public class Activity_Splashscreen extends Activity {
 
 		}
 	}
-	
+
+	private void showHashKey()
+	{
+		// Add code to print out the key hash
+		try {
+			PackageInfo info = getPackageManager().getPackageInfo(
+					"ui.tech.sahabatmakara.activity",
+					PackageManager.GET_SIGNATURES);
+			for (Signature signature : info.signatures) {
+				MessageDigest md = MessageDigest.getInstance("SHA");
+				md.update(signature.toByteArray());
+				Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
+			}
+		} catch (PackageManager.NameNotFoundException e) {
+
+		} catch (NoSuchAlgorithmException e) {
+
+		}
+
+	}
 	
 }

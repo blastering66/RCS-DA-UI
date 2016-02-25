@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/bg_btn_white_pressed" android:state_focused="true"/>
     <item android:drawable="@drawable/bg_btn_white_default"/>
 
-</selector><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/DanaAbadi-UI/DanaAbadiUI/danaAbadiUI/src/main/res/drawable/selector_btn_white.xml -->
+</selector><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/drawable/selector_btn_white.xml -->

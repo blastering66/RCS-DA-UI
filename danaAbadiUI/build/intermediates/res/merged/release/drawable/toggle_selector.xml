@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/toggle_on" android:state_checked="true"/>
     <item android:drawable="@drawable/toggle_off" android:state_checked="false"/>
 
-</selector><!-- From: file:/D:/Workspace_Android_Studio_NEW/DanaAbadiUI/danaAbadiUI/src/main/res/drawable/toggle_selector.xml -->
+</selector><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/drawable/toggle_selector.xml -->

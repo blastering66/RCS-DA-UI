@@ -320,4 +320,4 @@
         android:text="Konfirmasi"
         android:visibility="gone"
         android:textColor="@color/white"/>
-</LinearLayout><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/DanaAbadi-UI/DanaAbadiUI/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml -->
+</LinearLayout><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml -->

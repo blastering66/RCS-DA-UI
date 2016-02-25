@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RCS-DA-UI.iml" filepath="$PROJECT_DIR$/RCS-DA-UI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidBootstrap/androidBootstrap.iml" filepath="$PROJECT_DIR$/androidBootstrap/androidBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/danaAbadiUI/danaAbadiUI.iml" filepath="$PROJECT_DIR$/danaAbadiUI/danaAbadiUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryAppCompatCardview/libraryAppCompatCardview.iml" filepath="$PROJECT_DIR$/libraryAppCompatCardview/libraryAppCompatCardview.iml" />
+    </modules>
+  </component>
+</project>
