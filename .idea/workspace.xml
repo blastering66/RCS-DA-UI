@@ -14,164 +14,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37533cf-b412-40f4-9d90-8cae39c4fa52" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/drawable/img_email_yellow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/drawable/img_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/drawable/img_location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/drawable/img_phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_TentangKami.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_HubungiKami.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_tentangkami.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_hubungikami.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_empty.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Content.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Content.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailEvent.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailEvent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailNews.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailNews.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailProgram.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_DetailProgram.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Program$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Program$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Donate_Program.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Login.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$10.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$6.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$7.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$8.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$9.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$AsyncTask_GetUserData.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$AsyncTask_GetUserData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$DownloadImageTask.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider$DownloadImageTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_MenuSlider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_JemputDana.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_JemputDana.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_KartuKredit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_Transfer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_UploadFoto.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Selesai_UploadFoto.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_Edit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_Edit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Signup.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Signup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Webview.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/Activity_Webview.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Event$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Event$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_ListGallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_ListGallery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_News.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_News.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/CustomAdapter_Program.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_KartuKredit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_Transfer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$AsyncTask_Checkout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$AsyncTask_Checkout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Review.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Review.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event$AsyncTask_AllEvent.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event$AsyncTask_AllEvent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event_Alamat.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event_Alamat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event_Map.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Event_Map.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Highlight.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Highlight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_KataMereka.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_KataMereka.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Sahabat.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Sahabat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_JemputDana.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_JemputDana.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_JemputDana_Step2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_JemputDana_Step2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_ListGallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_ListGallery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_News$AsyncTask_AllNews.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_News$AsyncTask_AllNews.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_News.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_News.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_KartuKredit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_Transfer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$AsyncTask_Checkout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$AsyncTask_Checkout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$AsyncTask_GantiPassword.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting$AsyncTask_GantiPassword.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/fragment/Fragment_Setting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/util/ParameterCollections.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/util/ParameterCollections.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$integer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/beardedhen/androidbootstrap/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/com/facebook/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$menu.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$string.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$style.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$styleable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Gallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Gallery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight$ViewHolder.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/entities/RowData_History.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/entities/RowData_History.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/util/ServiceHandlerJSON.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/util/ServiceHandlerJSON.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/UploadImageDialog.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/debug/ui/tech/sahabatmakara/activity/UploadImageDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Content.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Content.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailEvent.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailNews.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailNews.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailProgram.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_DetailProgram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Program$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Program$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Donate_Program.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Login.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Login.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$10.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$6.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$7.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$8.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$9.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$AsyncTask_GetUserData.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$AsyncTask_GetUserData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$Async_LoadSlider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$DownloadImageTask.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider$DownloadImageTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_MenuSlider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_JemputDana.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_JemputDana.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_KartuKredit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_Transfer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_UploadFoto.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Selesai_UploadFoto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_Edit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_Edit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View$AsyncTask_GetUserData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Signup.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Signup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Webview.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/Activity_Webview.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/BuildConfig.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Event$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Event$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_ListGallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_ListGallery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_News.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_News.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/CustomAdapter_Program.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_KartuKredit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Bayar_Transfer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$AsyncTask_Checkout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info$AsyncTask_Checkout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Review.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Review.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event$AsyncTask_AllEvent.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event$AsyncTask_AllEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event_Alamat.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event_Alamat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event_Map.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Event_Map.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Highlight.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Highlight.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_KataMereka.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_KataMereka.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Sahabat.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Home_VP_Sahabat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_JemputDana.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_JemputDana.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_JemputDana_Step2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_JemputDana_Step2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_ListGallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_ListGallery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_News$AsyncTask_AllNews.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_News$AsyncTask_AllNews.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_News.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_News.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_KartuKredit.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_KartuKredit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_Transfer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_Transfer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$5.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$AsyncTask_Checkout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info$AsyncTask_Checkout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$1.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$2.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$3.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$4.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$AsyncTask_GantiPassword.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting$AsyncTask_GantiPassword.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/fragment/Fragment_Setting.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/util/ParameterCollections.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/util/ParameterCollections.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$drawable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$id.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$integer.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/beardedhen/androidbootstrap/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/com/facebook/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$layout.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$menu.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$string.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$style.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$styleable.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Gallery.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Gallery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight$ViewHolder.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight$ViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/adapters/RecyclerAdapter_Highlight.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/entities/RowData_History.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/entities/RowData_History.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/util/ServiceHandlerJSON.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/util/ServiceHandlerJSON.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/UploadImageDialog.class" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/classes/release/ui/tech/sahabatmakara/activity/UploadImageDialog.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-debug-unaligned.apk" afterPath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-debug.apk" afterPath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/dex/release/classes.dex" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/dex/release/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-release-unaligned.apk" afterPath="$PROJECT_DIR$/danaAbadiUI/build/outputs/apk/danaAbadiUI-release-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/resources-release.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Donate_Donasi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Donate_Program.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Donate_Program.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_MenuSlider.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_MenuSlider.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/manifests/full/release/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_Event.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Event.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Event.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_News.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_News.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Setting.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Setting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ParameterCollections.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ParameterCollections.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/com/beardedhen/androidbootstrap/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/com/beardedhen/androidbootstrap/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/com/facebook/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/com/facebook/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/ui/tech/sahabatmakara/activity/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/debug/ui/tech/sahabatmakara/activity/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/entities/RowData_History.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/entities/RowData_History.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ServiceHandlerJSON.java" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ServiceHandlerJSON.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/activity_mainmenu_slider_ls.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/activity_mainmenu_slider_ls.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_mainmenu_slider_ls.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_mainmenu_slider_ls.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/activity_setting.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/activity_setting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_setting.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_setting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/fragment_donate_step_info.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/fragment_donate_step_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_donate_step_info.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_donate_step_info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/item_history.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/item_history.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_history.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_history.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/layout_step_bayar_kartukredit.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/layout_step_bayar_kartukredit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/layout_view_account.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/layout/layout_view_account.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_view_account.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_view_account.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/danaAbadiUI/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/incremental/mergeResourcesdebug/merger.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/incremental/mergeResourcesdebug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/buildConfig/release/ui/tech/sahabatmakara/activity/BuildConfig.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/buildConfig/release/ui/tech/sahabatmakara/activity/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/com/beardedhen/androidbootstrap/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/com/beardedhen/androidbootstrap/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/com/facebook/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/com/facebook/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/ui/tech/sahabatmakara/activity/R.java" afterPath="$PROJECT_DIR$/danaAbadiUI/build/generated/source/r/release/ui/tech/sahabatmakara/activity/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/symbols/release/R.txt" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/symbols/release/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/activity_mainmenu_slider_ls.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/activity_mainmenu_slider_ls.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/activity_setting.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/activity_setting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/fragment_donate_step_info.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/fragment_donate_step_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/item_history.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/item_history.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/layout_step_bayar_kartukredit.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/layout_step_bayar_kartukredit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/layout_view_account.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/layout/layout_view_account.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/danaAbadiUI/build/outputs/logs/manifest-merger-release-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/incremental/mergeResourcesrelease/merger.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/incremental/mergeResourcesrelease/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/values/values.xml" afterPath="$PROJECT_DIR$/danaAbadiUI/build/intermediates/res/merged/release/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RCS-DA-UI.iws" />
@@ -198,26 +169,42 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="283" column="94" selection-start-line="283" selection-start-column="94" selection-end-line="283" selection-end-column="94" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fragment_ListHistory.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fragment_ListHistory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.13274336">
               <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServiceHandlerJSON.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServiceHandlerJSON.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ServiceHandlerJSON.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="399" column="56" selection-start-line="399" selection-start-column="56" selection-end-line="399" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -240,7 +227,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="44" column="31" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="31" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -3117,7 +3106,6 @@
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_hubungikami.xml" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_view_account.xml" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Setting_Account_View.java" />
-        <option value="$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.java" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.java" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_donate_step_info.xml" />
@@ -3130,6 +3118,7 @@
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_history.xml" />
         <option value="$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.java" />
+        <option value="$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -3164,7 +3153,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3262,6 +3250,58 @@
               <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sahabatmakara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RCS-DA-UI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danaAbadiUI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sahabatmakara" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RCS-DA-UI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danaAbadiUI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -3277,11 +3317,26 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RCS-DA-UI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danaAbadiUI" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3292,10 +3347,11 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="ECAZFG001061" />
-    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/danaAbadiUI" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../Data Ridho/GAWE/RCS_APK_RILIS" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Data Ridho/GAWE/RCS_APK_RILIS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3477,7 +3533,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3497,13 +3553,13 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32715008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39966273" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3553,7 +3609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="156" column="84" selection-start-line="156" selection-start-column="79" selection-end-line="156" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3578,7 +3633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3600,13 +3654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3861#3862#0" expanded="false" />
-            <element signature="e#3924#3925#0" expanded="false" />
-            <element signature="e#7036#7037#0" expanded="false" />
-            <element signature="e#7105#7106#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3618,20 +3665,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_donasi_transfer.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Signup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18584071">
           <caret line="21" column="54" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3646,7 +3692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.7716814">
           <caret line="156" column="84" selection-start-line="156" selection-start-column="79" selection-end-line="156" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3654,44 +3699,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3861#3862#0" expanded="false" />
-            <element signature="e#3924#3925#0" expanded="false" />
-            <element signature="e#7036#7037#0" expanded="false" />
-            <element signature="e#7105#7106#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_tentangkami.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69962686">
           <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_setting.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_setting.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38432837">
           <caret line="165" column="43" selection-start-line="165" selection-start-column="43" selection-end-line="165" selection-end-column="43" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_listview.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_listview.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_Splashscreen.java">
@@ -3705,13 +3743,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7719298">
           <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Bayar_KartuKredit.java">
@@ -3736,13 +3774,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_event.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3508772">
           <caret line="58" column="51" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="51" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_TentangKami.java">
@@ -3756,7 +3794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28301886">
           <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3764,7 +3801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4360465">
           <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3779,18 +3815,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9191375">
           <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/activity_mainmenu_slider_ls.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47368422">
           <caret line="223" column="56" selection-start-line="223" selection-start-column="56" selection-end-line="223" selection-end-column="56" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/values/strings.xml">
@@ -3808,30 +3843,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_hubungikami.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48245615">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_view_account.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5956873">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_view_account.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2719299">
           <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Review.java">
@@ -3849,13 +3877,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_program_step_info.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50877196">
           <caret line="276" column="50" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Program_Step_Info.java">
@@ -3866,13 +3894,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/fragment_donate_step_info.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="12.280702">
           <caret line="282" column="41" selection-start-line="282" selection-start-column="41" selection-end-line="282" selection-end-column="41" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_Donate_Step_Info.java">
@@ -3896,19 +3924,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_MenuSlider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="283" column="94" selection-start-line="283" selection-start-column="94" selection-end-line="283" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_News.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="31" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3920,23 +3942,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/layout_empty.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58768654">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_history.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/res/layout/item_history.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61403507">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/adapters/CustomAdapter_ListHistory.java">
@@ -3949,19 +3971,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/util/ParameterCollections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33153638">
           <caret line="113" column="31" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3969,7 +3982,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="399" column="56" selection-start-line="399" selection-start-column="56" selection-end-line="399" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/activity/Activity_MenuSlider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="283" column="94" selection-start-line="283" selection-start-column="94" selection-end-line="283" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/danaAbadiUI/src/main/java/ui/tech/sahabatmakara/fragment/Fragment_ListHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13274336">
+          <caret line="66" column="45" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
