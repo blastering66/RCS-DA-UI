@@ -1,6 +1,7 @@
 package ui.tech.sahabatmakara.fragment;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -122,6 +123,7 @@ public class Fragment_Event extends Fragment{
 			pDialog.dismiss();
 
 			if(cCode.equals("1")){
+				Collections.reverse(objects);
 				adapter = new CustomAdapter_Event(getActivity(), 0, objects);
 				lv.setAdapter(adapter);
 			}else{

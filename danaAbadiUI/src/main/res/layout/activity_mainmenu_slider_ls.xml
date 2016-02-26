@@ -143,7 +143,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
-                    android:text="Home"
+                    android:text="Beranda"
                     android:textColor="@color/selector_tv_slider"
                     android:textSize="@dimen/text_slider_medium" />
 
@@ -223,6 +223,19 @@
                     android:layout_height="1dp"
                     android:background="@color/white" />
 
+                <TextView
+                    android:id="@+id/tv_hubungikami"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Hubungi Kami"
+                    android:textColor="@color/selector_tv_slider"
+                    android:textSize="@dimen/text_slider_medium" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/white" />
                 <TextView
                     android:id="@+id/tv_history"
                     android:layout_width="match_parent"

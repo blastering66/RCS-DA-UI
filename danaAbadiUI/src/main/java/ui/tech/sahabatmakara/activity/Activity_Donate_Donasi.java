@@ -25,7 +25,7 @@ public class Activity_Donate_Donasi extends ActionBarActivity {
 
         if(savedInstanceState == null){
             FragmentManager fm = getSupportFragmentManager();
-            fm.beginTransaction().replace(R.id.frame_container, new Fragment_Donate_Step_Info()).commit();
+            fm.beginTransaction().replace(R.id.frame_container, new Fragment_Donate_Step_Info()).addToBackStack(null).commit();
         }
     }
 
@@ -43,13 +43,24 @@ public class Activity_Donate_Donasi extends ActionBarActivity {
             @Override
             public void onClick(View v) {
                 // TODO Auto-generated method stub
-                finish();
+//                finish();
+                if (getSupportFragmentManager().getBackStackEntryCount() == 1){
+                    finish();
+                }else{
+                    getSupportFragmentManager().popBackStack();
+                }
             }
         });
+
     }
 
     @Override
     public void onBackPressed() {
-        finish();
+//        finish();
+        if (getSupportFragmentManager().getBackStackEntryCount() == 1){
+            finish();
+        }else{
+            getSupportFragmentManager().popBackStack();
+        }
     }
 }

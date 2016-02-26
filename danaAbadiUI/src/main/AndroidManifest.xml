@@ -60,6 +60,7 @@
             android:theme="@style/ToolBarStyle" />
         <activity
             android:name=".Activity_Setting_Account_View"
+            android:windowSoftInputMode="stateHidden"
             android:theme="@style/ToolBarStyle" />
         <activity
             android:name=".Activity_Setting_Account_Edit"
@@ -97,6 +98,11 @@
         android:name=".Activity_Selesai_UploadFoto"
             android:screenOrientation="portrait"
         android:theme="@style/ToolBarStyle" />
+
+        <activity
+            android:name=".Activity_TentangKami"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToolBarStyle" />
 
         <activity
             android:name=".Activity_Webview"

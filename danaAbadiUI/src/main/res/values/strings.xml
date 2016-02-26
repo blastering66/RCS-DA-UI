@@ -13,6 +13,14 @@
 
     <string name="lorem_ipsum_dolor">Diadakan acara dengan judul “Tokoh dan Selebriti Alumni FISIP UI Bicara: “Mahasiswa dan Pergerakan Politik, dari Dekade ke Dekade”. Pembicara dalam acara tersebut adalah Dr. Cosmas Batubara dan Drs. Eep Saefulloh Fatah, MA, keduanya merupakan alumni program studi Ilmu Politik FISIP UI, serta dimoderatori oleh Isyana Bagoes Oka, S. Sos, yang merupakan Alumni Hubungan Internasional FISIP UI. Acara tersebut berlangsung di Auditorium Juwono Sudarsono, Gedung F lantai 2 Kampus FISIP UI Depok.</string>
 
+    <string name="hubungi_alamat">DIREKTORAT PENGEMBANGAN KARIR DAN HUBUNGAN ALUMNI UI
+GD. PELAYANAN MAHASISWA TERPADU, PUSAT ADMINISTRASI UNIVERSITAS INDONESIA, LANTAI 2 KAMPUS UI DEPOK 16424
+</string>
+
+    <string name="hubungi_phone">+62 21 7867222
+78841818
+EXT. 100040</string>
+    <string name="hubungi_email">DANA.ABADIUI@UI.AC.ID</string>
     <string name="label_transfer">Masa berlaku transaksi adalah selama 24 jam. \n\nBila Selama 24 jam kami tidak menerima proses pembayaran anda maka transaksi ini kami anggap gagal  </string>
 
     <string-array name="payment_via">

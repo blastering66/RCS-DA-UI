@@ -393,6 +393,36 @@ public class ServiceHandlerJSON {
         return obj;
     }
 
+    public JSONObject getHistory_Donation(String user_id) {
+        try {
+            params = new ArrayList<NameValuePair>();
+            params.add(new BasicNameValuePair(ParameterCollections.KIND,
+                    ParameterCollections.KIND_DONASI_RIWAYAT));
+            params.add(new BasicNameValuePair(ParameterCollections.TAG_USER_ID,
+                    user_id));
+
+            url = ParameterCollections.URL_GET
+                    + URLEncodedUtils.format(params, "utf-8");
+
+            HttpGet hGet = new HttpGet(url);
+            hResponse = hClient.execute(hGet);
+            hEntity = hResponse.getEntity();
+            response = EntityUtils.toString(hEntity);
+            Log.e("Message = :", response);
+            obj = new JSONObject(response);
+        } catch (JSONException e) {
+
+        } catch (UnsupportedEncodingException e) {
+
+        } catch (ClientProtocolException e) {
+            // TODO: handle exception
+        } catch (IOException e) {
+            // TODO: handle exception
+        }
+
+        return obj;
+    }
+
     public JSONObject getAllGalleries() {
         try {
             params = new ArrayList<NameValuePair>();

@@ -124,7 +124,7 @@
                         android:layout_height="wrap_content"
                         android:background="@android:color/transparent"
                         android:hint="Telepon"
-                        android:enabled="true"
+                        android:enabled="false"
                         android:paddingLeft="10dp"
                         android:textColor="@color/black" />
                 </LinearLayout>

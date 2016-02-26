@@ -117,52 +117,72 @@ public class CustomAdapter_Event extends ArrayAdapter<RowData_Event> {
 
 		String date_nextevent = item.date;
 		tgl_event = date_nextevent;
+
 		try {
-			time_event = new SimpleDateFormat("E, dd-MM-yyyy HH:mm:ss", Locale.US).parse(tgl_event);
-			Calendar c = Calendar.getInstance();
-			now = c.getTime();
+			Date time_event_temp = new SimpleDateFormat("E, dd-MM-yyyy HH:mm:ss", Locale.US).parse(tgl_event);
+			Calendar c_temp = Calendar.getInstance();
+			Date now_temp = c_temp.getTime();
 
-			DateTime dt_event = new DateTime(time_event);
-			DateTime dt_now = new DateTime(now);
+			DateTime dt_event_temp = new DateTime(time_event_temp);
+			DateTime dt_now_temp = new DateTime(now_temp);
 
-			bedaHari = Days.daysBetween(dt_now, dt_event).getDays();
-			bedaJam = Hours.hoursBetween(dt_now, dt_event).getHours() % 24;
-			bedaMenit = Minutes.minutesBetween(dt_now, dt_event).getMinutes() % 60;
-			bedaDetik = Seconds.secondsBetween(dt_now, dt_event).getSeconds() % 60;
+			//jika event telah lewat
+			if(dt_event_temp.isBefore(dt_now_temp)){
+				tv_LabelCountdown.setText("Acara sudah selesai");
+			}else{
+				time_event = new SimpleDateFormat("E, dd-MM-yyyy HH:mm:ss", Locale.US).parse(tgl_event);
+				Calendar c = Calendar.getInstance();
+				now = c.getTime();
 
-			mInitialTime = DateUtils.DAY_IN_MILLIS * bedaHari + DateUtils.HOUR_IN_MILLIS * bedaJam
-					+ DateUtils.MINUTE_IN_MILLIS * bedaMenit + DateUtils.SECOND_IN_MILLIS * bedaDetik;
-		} catch (ParseException e) {
+				DateTime dt_event = new DateTime(time_event);
+				DateTime dt_now = new DateTime(now);
+
+				bedaHari = Days.daysBetween(dt_now, dt_event).getDays();
+				bedaJam = Hours.hoursBetween(dt_now, dt_event).getHours() % 24;
+				bedaMenit = Minutes.minutesBetween(dt_now, dt_event).getMinutes() % 60;
+				bedaDetik = Seconds.secondsBetween(dt_now, dt_event).getSeconds() % 60;
+
+				mInitialTime = DateUtils.DAY_IN_MILLIS * bedaHari + DateUtils.HOUR_IN_MILLIS * bedaJam
+						+ DateUtils.MINUTE_IN_MILLIS * bedaMenit + DateUtils.SECOND_IN_MILLIS * bedaDetik;
+
+				mCountDownTimer = new CountDownTimer(mInitialTime, 1000) {
+					StringBuilder time = new StringBuilder();
+
+					@Override
+					public void onTick(long millisUntilFinished) {
+						// TODO Auto-generated method stub
+						time.setLength(0);
+						if (millisUntilFinished > DateUtils.DAY_IN_MILLIS) {
+							long count = millisUntilFinished / DateUtils.DAY_IN_MILLIS;
+							if (count > 1) {
+								time.append(count).append(" Hari ");
+							} else {
+								time.append(count).append(" Hari ");
+							}
+							millisUntilFinished %= DateUtils.DAY_IN_MILLIS;
+						}
+
+						time.append(DateUtils.formatElapsedTime(Math.round(millisUntilFinished / 1000d)));
+						tv_Countdown.setText(time.toString());
+					}
+
+					@Override
+					public void onFinish() {
+						// TODO Auto-generated method stub
+
+					}
+				}.start();
+
+			}
+
+		}catch (ParseException e) {
 			e.printStackTrace();
+		}catch (Exception e){
+
 		}
 
-		mCountDownTimer = new CountDownTimer(mInitialTime, 1000) {
-			StringBuilder time = new StringBuilder();
 
-			@Override
-			public void onTick(long millisUntilFinished) {
-				// TODO Auto-generated method stub
-				time.setLength(0);
-				if (millisUntilFinished > DateUtils.DAY_IN_MILLIS) {
-					long count = millisUntilFinished / DateUtils.DAY_IN_MILLIS;
-					if (count > 1) {
-						time.append(count).append(" Hari ");
-					} else {
-						time.append(count).append(" Hari ");
-					}
-					millisUntilFinished %= DateUtils.DAY_IN_MILLIS;
-				}
 
-				time.append(DateUtils.formatElapsedTime(Math.round(millisUntilFinished / 1000d)));
-				tv_Countdown.setText(time.toString());
-			}
-
-			@Override
-			public void onFinish() {
-				// TODO Auto-generated method stub
-
-			}
-		}.start();
 		return v;
 	}
 

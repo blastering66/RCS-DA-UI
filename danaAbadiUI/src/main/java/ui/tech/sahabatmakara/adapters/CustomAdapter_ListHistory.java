@@ -38,9 +38,14 @@ public class CustomAdapter_ListHistory extends ArrayAdapter<RowData_History>{
 		
 		tv_Title.setTypeface(Font.setLato(context));
 		tv_NominalDonasi.setTypeface(Font.setLato(context));
-		
-		tv_Title.setText(item.title_Program);
-		tv_NominalDonasi.setText(item.nominal_Donasi);
+
+		if(item.title_Program == null || item.title_Program.equals("null") || item.title_Program.isEmpty()){
+			tv_Title.setText("Donasi Ke Fakultas : " + item.fakultas_Donasi);
+		}else{
+			tv_Title.setText("Donasi Ke Program : " + item.title_Program);
+		}
+
+		tv_NominalDonasi.setText("Rp. " + String.format("%,d",Integer.parseInt(item.nominal_Donasi)).replace(",","."));
 		
 		return v;
 	}

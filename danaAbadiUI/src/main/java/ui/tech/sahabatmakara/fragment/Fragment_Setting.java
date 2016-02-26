@@ -2,6 +2,7 @@ package ui.tech.sahabatmakara.fragment;
 
 import ui.tech.sahabatmakara.activity.Activity_Setting_Account_Edit;
 import ui.tech.sahabatmakara.activity.Activity_Setting_Account_View;
+import ui.tech.sahabatmakara.activity.Activity_TentangKami;
 import ui.tech.sahabatmakara.activity.R;
 import ui.tech.sahabatmakara.util.ParameterCollections;
 import ui.tech.sahabatmakara.util.ServiceHandlerJSON;
@@ -17,6 +18,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import org.json.JSONObject;
@@ -72,6 +74,14 @@ public class Fragment_Setting extends Fragment {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getActivity(), Activity_Setting_Account_Edit.class));
+            }
+        });
+
+        TextView tv_TentangKami = (TextView)v.findViewById(R.id.tv_tentangkami);
+        tv_TentangKami.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(), Activity_TentangKami.class));
             }
         });
 

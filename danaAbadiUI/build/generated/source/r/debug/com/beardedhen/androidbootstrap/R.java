@@ -116,26 +116,26 @@ public final class R {
 		public static final int edittext_background_rounded_warning = 0x7f02006d;
 		public static final int edittext_background_success = 0x7f02006e;
 		public static final int edittext_background_warning = 0x7f02006f;
-		public static final int thumbnail_circle = 0x7f020098;
-		public static final int thumbnail_circle_container = 0x7f020099;
-		public static final int thumbnail_circle_minimal = 0x7f02009a;
+		public static final int thumbnail_circle = 0x7f02009c;
+		public static final int thumbnail_circle_container = 0x7f02009d;
+		public static final int thumbnail_circle_minimal = 0x7f02009e;
 	}
 	public static final class id {
-		public static final int action_settings = 0x7f0c010e;
-		public static final int container = 0x7f0c0080;
-		public static final int dimensionsLabel = 0x7f0c0082;
+		public static final int action_settings = 0x7f0c0114;
+		public static final int container = 0x7f0c0082;
+		public static final int dimensionsLabel = 0x7f0c0084;
 		public static final int image = 0x7f0c0036;
-		public static final int layout = 0x7f0c007c;
-		public static final int lblLeft = 0x7f0c007d;
-		public static final int lblMiddle = 0x7f0c007e;
-		public static final int lblRight = 0x7f0c007f;
-		public static final int placeholder = 0x7f0c0081;
+		public static final int layout = 0x7f0c007e;
+		public static final int lblLeft = 0x7f0c007f;
+		public static final int lblMiddle = 0x7f0c0080;
+		public static final int lblRight = 0x7f0c0081;
+		public static final int placeholder = 0x7f0c0083;
 	}
 	public static final class layout {
-		public static final int bootstrap_button = 0x7f03001c;
-		public static final int bootstrap_thumbnail = 0x7f03001d;
-		public static final int bootstrap_thumbnail_circle = 0x7f03001e;
-		public static final int placeholder = 0x7f030052;
+		public static final int bootstrap_button = 0x7f03001d;
+		public static final int bootstrap_thumbnail = 0x7f03001e;
+		public static final int bootstrap_thumbnail_circle = 0x7f03001f;
+		public static final int placeholder = 0x7f030055;
 	}
 	public static final class menu {
 		public static final int main = 0x7f0d0001;

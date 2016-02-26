@@ -48,6 +48,7 @@ import ui.tech.sahabatmakara.dialog.Dialog_Progress;
 import ui.tech.sahabatmakara.fragment.Fragment_Donate_Step_Info;
 import ui.tech.sahabatmakara.fragment.Fragment_Event;
 import ui.tech.sahabatmakara.fragment.Fragment_Home;
+import ui.tech.sahabatmakara.fragment.Fragment_HubungiKami;
 import ui.tech.sahabatmakara.fragment.Fragment_ListGallery;
 import ui.tech.sahabatmakara.fragment.Fragment_ListHistory;
 import ui.tech.sahabatmakara.fragment.Fragment_News;
@@ -166,6 +167,7 @@ public class Activity_MenuSlider extends ActionBarActivity {
         TextView tv_Gallery = (TextView) findViewById(R.id.tv_gallery);
 
         TextView tv_Donasi = (TextView) findViewById(R.id.tv_donasi);
+        TextView tv_HubungiKami = (TextView) findViewById(R.id.tv_hubungikami);
         TextView tv_History = (TextView) findViewById(R.id.tv_history);
 
 
@@ -268,6 +270,18 @@ public class Activity_MenuSlider extends ActionBarActivity {
 //                fm.beginTransaction().replace(R.id.frame_container, new Fragment_ListHistory()).addToBackStack(null)
 //                        .commit();
                 fm.beginTransaction().replace(R.id.frame_container, new Fragment_ListHistory()).commit();
+            }
+        });
+
+        tv_HubungiKami.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                mDrawer.closeDrawers();
+//                fm.beginTransaction().replace(R.id.frame_container, new Fragment_ListHistory()).addToBackStack(null)
+//                        .commit();
+                fm.beginTransaction().replace(R.id.frame_container, new Fragment_HubungiKami()).commit();
             }
         });
 

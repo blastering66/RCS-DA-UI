@@ -93,22 +93,25 @@ public class Fragment_Program_Step_Info extends Fragment {
             @Override
             public void afterTextChanged(Editable s) {
                 String nominal = s.toString();
-                int int_nominal = Integer.valueOf(nominal);
 
-                if (int_nominal > 25000000) {
-                    ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
-                            android.R.layout.simple_spinner_dropdown_item,
-                            getResources().getStringArray(R.array.payment_via_all));
-                    adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-                    spinner_Payment.setAdapter(adapter);
+                if(!nominal.equals("")){
+                    int int_nominal = Integer.valueOf(nominal);
 
-                } else {
-                    ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
-                            android.R.layout.simple_spinner_dropdown_item,
-                            getResources().getStringArray(R.array.payment_via));
-                    adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-                    spinner_Payment.setAdapter(adapter);
+                    if (int_nominal > 25000000) {
+                        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
+                                android.R.layout.simple_spinner_dropdown_item,
+                                getResources().getStringArray(R.array.payment_via_all));
+                        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+                        spinner_Payment.setAdapter(adapter);
 
+                    } else {
+                        ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
+                                android.R.layout.simple_spinner_dropdown_item,
+                                getResources().getStringArray(R.array.payment_via));
+                        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+                        spinner_Payment.setAdapter(adapter);
+
+                    }
                 }
 
             }

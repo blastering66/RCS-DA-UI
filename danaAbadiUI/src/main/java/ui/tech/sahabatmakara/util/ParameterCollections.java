@@ -111,6 +111,7 @@ public class ParameterCollections {
 	public static final String KIND_EDIT_USER= "user_edit";
 	public static final String KIND_EDIT_PASSWORD= "user_edit_username";
 	public static final String KIND_DONASI_JEMPUTDANA= "donation";
+	public static final String KIND_DONASI_RIWAYAT= "donation";
 
 	public static final String KIND_LOGIN_USERNAME = "username";
 	public static final String KIND_LOGIN_PASSWORD = "password";
@@ -176,7 +177,10 @@ public class ParameterCollections {
 
 	public static final String TAG_DONATION_ID = "donation_id";
 	public static final String TAG_DONATION_NAME = "donation_name";
+	public static final String TAG_DONATION_TITLE = "program_title";
+	public static final String TAG_DONATION_AMOUNT = "donation_amount";
 	public static final String TAG_DONATION_FACULTY = "user_faculty";
+	public static final String TAG_DONATION_TO_FACULTY = "donation_faculty";
 	public static final String TAG_DONATION_IMG = "donation_picture";
 
 

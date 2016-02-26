@@ -90,6 +90,7 @@ public class Activity_Setting_Account_View extends ActionBarActivity {
         ed_NamaLengkap.setEnabled(false);
         ed_Email.setEnabled(false);
         ed_Alamat.setEnabled(false);
+        ed_Tlp.setEnabled(false);
         spinner_Kelamin.setEnabled(false);
         spinner_Fakultas.setEnabled(false);
 

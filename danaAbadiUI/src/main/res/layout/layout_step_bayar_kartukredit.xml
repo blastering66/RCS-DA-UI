@@ -169,7 +169,7 @@
                 android:layout_weight="1"
                 android:gravity="right"
                 android:imeOptions="actionNext"
-                android:inputType="text"
+                android:inputType="number"
                 android:textColor="@color/black" />
 
         </TableRow>

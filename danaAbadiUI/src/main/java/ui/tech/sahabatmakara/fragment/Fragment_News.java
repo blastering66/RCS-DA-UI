@@ -1,6 +1,7 @@
 package ui.tech.sahabatmakara.fragment;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -129,6 +130,7 @@ public class Fragment_News extends Fragment {
 			// TODO Auto-generated method stub
 			super.onPostExecute(result);
 			pDialog.dismiss();
+			Collections.reverse(objects);
 			adapter = new CustomAdapter_News(getActivity(), 0, objects);
 			lv.setAdapter(adapter);
 		}
