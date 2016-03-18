@@ -77,7 +77,7 @@ public class Fragment_JemputDana extends Fragment {
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 switch (position) {
                     case 0:
-                        cJumlahDonasi = "500000";
+                        cJumlahDonasi = "100000";
                         break;
                     case 1:
                         cJumlahDonasi = "1000000";

@@ -2417,11 +2417,11 @@ EXT. 100040</string><string name="label_btn_donate">DONATE NOW</string><string n
         <item>2025</item>
 
     </string-array><string name="app_name">SAHABAT MAKARA</string><string-array name="spinner_jmh_donasi">
-        <item>500 RB</item>
-        <item>1 JT</item>
-        <item>2 JT</item>
-        <item>5 JT</item>
-        <item>10 JT</item>
+        <item>Rp.   100.000</item>
+        <item>Rp. 1.000.000</item>
+        <item>Rp. 2.000.000</item>
+        <item>Rp. 5.000.000</item>
+        <item>Rp.10.000.000</item>
         <item>Others</item>
 
     </string-array><string name="app_id_new">925773204164390</string><string name="label_title_atmbersama">Harap membaca instruksi dengan jelas dan pastikan semua info sama</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="dialog_sending">Mengirim</string><string name="hubungi_alamat">DIREKTORAT PENGEMBANGAN KARIR DAN HUBUNGAN ALUMNI UI

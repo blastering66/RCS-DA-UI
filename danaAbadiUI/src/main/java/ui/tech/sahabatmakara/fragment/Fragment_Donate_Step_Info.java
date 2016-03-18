@@ -177,7 +177,7 @@ public class Fragment_Donate_Step_Info extends Fragment {
             public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
                 switch (i) {
                     case 0:
-                        cJumlahDonasi = "500000";
+                        cJumlahDonasi = "100000";
                         break;
                     case 1:
                         cJumlahDonasi = "1000000";
