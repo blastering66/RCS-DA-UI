@@ -64,6 +64,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="125dp"
                         android:scaleType="centerCrop"
+                        android:src="@drawable/ic_launcher"
                          />
 
                     <LinearLayout
@@ -115,6 +116,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="125dp"
                         android:scaleType="centerCrop"
+                        android:src="@drawable/ic_launcher"
                         />
 
 
@@ -162,6 +164,7 @@
                 android:orientation="vertical">
 
                 <RelativeLayout
+
                     android:layout_width="wrap_content"
                     android:layout_height="250dp">
 
@@ -174,6 +177,7 @@
                         android:id="@+id/img_program_3"
                         android:layout_width="match_parent"
                         android:layout_height="250dp"
+                        android:src="@drawable/ic_launcher"
                         android:scaleType="centerCrop"
                          />
 
@@ -277,4 +281,4 @@
     </LinearLayout>
 
 </ScrollView>
-<!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_home.xml -->
+<!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_home.xml -->

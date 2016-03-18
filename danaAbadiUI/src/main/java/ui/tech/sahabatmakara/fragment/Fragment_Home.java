@@ -352,7 +352,13 @@ public class Fragment_Home extends Fragment {
 
                 tv_target_01.setText(target_1);
                 tv_title_01.setText(title_1);
-                Picasso.with(getActivity()).load(url_1).into(img_program_1);
+                if(url_1 == null){
+                    img_program_1.setImageResource(R.drawable.ic_launcher);
+
+                }else{
+                    Picasso.with(getActivity()).load(url_1).into(img_program_1);
+                }
+
 
                 img_program_1.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -366,7 +372,14 @@ public class Fragment_Home extends Fragment {
 
                 tv_target_02.setText(target_2);
                 tv_title_02.setText(title_2);
-                Picasso.with(getActivity()).load(url_2).into(img_program_2);
+
+                if(url_2 == null){
+                    img_program_2.setImageResource(R.drawable.ic_launcher);
+                }else{
+                    Picasso.with(getActivity()).load(url_2).into(img_program_2);
+                }
+
+
                 img_program_2.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -378,7 +391,12 @@ public class Fragment_Home extends Fragment {
 
                 tv_target_03.setText(target_3);
                 tv_title_03.setText(title_3);
-                Picasso.with(getActivity()).load(url_3).into(img_program_3);
+                if(url_3 == null){
+                    img_program_3.setImageResource(R.drawable.ic_launcher);
+                }else{
+                    Picasso.with(getActivity()).load(url_3).into(img_program_3);
+                }
+
                 img_program_3.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {

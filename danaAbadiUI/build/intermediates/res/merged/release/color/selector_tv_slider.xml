@@ -3,4 +3,4 @@
     <item android:state_pressed="true" android:color="@android:color/darker_gray"/>
     <item android:color="@color/white"/>
 </selector>
-<!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/color/selector_tv_slider.xml -->
+<!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/color/selector_tv_slider.xml -->

@@ -99,8 +99,7 @@
                 android:layout_weight="1"
                 android:gravity="right"
                 android:imeOptions="actionNext"
-
-                android:inputType="text"
+                android:inputType="number"
                 android:textColor="@color/black" />
 
         </TableRow>
@@ -170,6 +169,7 @@
                 android:gravity="right"
                 android:imeOptions="actionNext"
                 android:inputType="number"
+                android:maxLength="3"
                 android:textColor="@color/black" />
 
         </TableRow>
@@ -215,7 +215,7 @@
                 android:layout_marginRight="10dp"
                 android:gravity="right"
                 android:imeOptions="actionNext"
-                android:inputType="text"
+                android:inputType="number"
                 android:textColor="@color/black" />
 
         </TableRow>
@@ -320,4 +320,4 @@
         android:text="Konfirmasi"
         android:visibility="gone"
         android:textColor="@color/white"/>
-</LinearLayout><!-- From: file:/Users/macbook/Desktop/Android%20Studio%20Repo%20Workspace/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml -->
+</LinearLayout><!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_step_bayar_kartukredit.xml -->
