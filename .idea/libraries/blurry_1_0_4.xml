@@ -6,7 +6,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/gradle-2.3/caches/modules-2/files-2.1/jp.wasabeef/blurry/1.0.4/f7aefc4d14ea2498e47f239426dadd35b891c192/blurry-1.0.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/blurry/1.0.4/f7aefc4d14ea2498e47f239426dadd35b891c192/blurry-1.0.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

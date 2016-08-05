@@ -337,4 +337,4 @@
         android:padding="15dp"
         android:text="Selanjutnya"
         android:textColor="@color/white"/>
-</LinearLayout><!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/layout/fragment_donate_step_info.xml -->
+</LinearLayout>

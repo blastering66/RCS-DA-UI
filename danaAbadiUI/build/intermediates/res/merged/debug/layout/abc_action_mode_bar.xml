@@ -22,4 +22,3 @@
         android:layout_height="wrap_content"
         android:visibility="gone"
         style="?attr/actionModeStyle"/>
-<!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml -->

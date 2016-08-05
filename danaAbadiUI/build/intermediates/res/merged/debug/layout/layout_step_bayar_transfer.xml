@@ -154,4 +154,4 @@
         android:padding="10dp"
         android:text="Anda dapat menutup aplikasi dan cek status di Riwayat" />
 
-</LinearLayout><!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_step_bayar_transfer.xml -->
+</LinearLayout>

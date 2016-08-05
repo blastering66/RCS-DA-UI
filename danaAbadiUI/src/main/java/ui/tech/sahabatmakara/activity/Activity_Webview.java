@@ -119,8 +119,6 @@ public class Activity_Webview extends ActionBarActivity {
 
             List<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>();
             try {
-//                nameValuePairs.add(new BasicNameValuePair("token-id", cToken));
-//                nameValuePairs.add(new BasicNameValuePair("price", cTotalDonasi));
                 nameValuePairs.add(new BasicNameValuePair(ParameterCollections.KIND_TOKEN,
                         cToken));
                 nameValuePairs.add(new BasicNameValuePair(ParameterCollections.KIND_BANK,

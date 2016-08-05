@@ -3,4 +3,3 @@
     <item android:state_pressed="true" android:color="@color/yellow"/>
     <item android:color="@color/black"/>
 </selector>
-<!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/color/selector_tv.xml -->

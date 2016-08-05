@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/build/intermediates/res/merged/release/layout/bootstrap_thumbnail_circle.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/src/main/res/layout/bootstrap_thumbnail_circle.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/build/intermediates/res/merged/release/layout/placeholder.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/src/main/res/layout/placeholder.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/build/intermediates/res/merged/release/layout/bootstrap_button.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/src/main/res/layout/bootstrap_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/build/intermediates/res/merged/release/layout/bootstrap_thumbnail.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-DA-UI/androidBootstrap/src/main/res/layout/bootstrap_thumbnail.xml"
+    }
+]

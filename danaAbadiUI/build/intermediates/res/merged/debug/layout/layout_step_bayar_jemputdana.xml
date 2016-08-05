@@ -123,4 +123,4 @@
         android:text="Proses Donasi"
         android:textColor="@color/white"/>
 
-</LinearLayout><!-- From: file:/D:/Workspace_Android_Github/UI-temp/RCS-DA-UI/danaAbadiUI/src/main/res/layout/layout_step_bayar_jemputdana.xml -->
+</LinearLayout>
